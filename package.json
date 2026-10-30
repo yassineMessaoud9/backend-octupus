@@ -1,10 +1,10 @@
 {
-  "name": "octopusfm-admin-backend",
+  "name": "octopusfm-admin",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node render-server.js"
   },
   "engines": {
     "node": ">=22"
